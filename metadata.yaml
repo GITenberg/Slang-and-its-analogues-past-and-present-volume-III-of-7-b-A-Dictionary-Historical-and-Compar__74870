@@ -1,5 +1,8 @@
 _repo: Slang-and-its-analogues-past-and-present-volume-III-of-7-b-A-Dictionary-Historical-and-Compar__74870
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74870-h/images/new-cover.jpg
 creator:
   authors:
   - agent_name: Farmer, John S.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/369
     wikipedia: https://en.wikipedia.org/wiki/William_Ernest_Henley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74870#Slang-and-its-analogues-past-and-present-volume-III-of-7-b-A-Dictionary-Historical-and-Compar_
 gutenberg_issued: '2024-12-10'
 gutenberg_type: Text
 identifiers:
